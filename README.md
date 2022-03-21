@@ -1,3 +1,4 @@
+https://www.youtube.com/embed/0harFK2dufY
 # Kids' Puzzle
 
 Kids' Puzzle is a puzzle assembly game made for Android mobile phones. This app was created as the final project during SheGoesTech Java II Bootcamp. Game is initially targeted for toddlers, but the implemented timer feature makes it fun also for older audience, as it lets users compete for the fastest puzzle assembly time. Future improvements include more complexity levels (up to 72 pieces) and leaderboard.
